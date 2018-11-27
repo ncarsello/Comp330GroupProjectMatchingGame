@@ -18,6 +18,18 @@ String[][] CardsToMatch = {#,#},
                           {#.#},
                           {#.#},
                           
+//Very important-- 6x6 board card text --NOT IMPLEMENTED--
+String[][] CardsToMatch = {#,#},
+                          {#.#},
+                          {#.#},
+                          {#.#},
+                          {#.#},
+                          {#.#},
+                          {#.#},
+                          {#.#},
+                          {#.#},
+                          {#.#},
+                          
 //Very important-- 8x8 board card text --HAVE NOT IMPLEMENTED THIS.--
 String[][] CardsToMatch = {#,#},
                           {#.#},
